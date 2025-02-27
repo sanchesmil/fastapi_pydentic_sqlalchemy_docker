@@ -1,1 +1,1 @@
-# fastapi_pydentic_sqlalchemy_docker
+# fastapi_pydantic_sqlalchemy_docker
